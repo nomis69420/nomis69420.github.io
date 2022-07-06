@@ -3,26 +3,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
   }
   .s1 {
-    border-radius: 15px;
-    color: #ccc;
-    border: 10px #ccc;
-    background-color: #16161d;
-    float: left;
-    text-align: center;
-    overflow-y: scroll;
-    height: 95%;
-    width: 75%;
-    display: flex;
-    margin: 0 0 0 20;
+
   }
  .s1d {
-    color: #ccc;
-    background-color: #111;
-    float: right;
-    text-align: center;     
-    height: 95%;
-    width: 20%;
-    display: flex;
+
   }
     .s2 {
     border-radius: 15px;
