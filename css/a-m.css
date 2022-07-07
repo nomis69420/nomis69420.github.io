@@ -9,7 +9,6 @@ body {
     display: flex;
     float: left;
     overflow: auto;
-    height: 65%;
     width: 80%;
     padding: 15px;
   }
@@ -20,7 +19,6 @@ body {
     float: right;
     overflow: auto;
     width: 60%;
-    height: 30%;
     padding: 15px;
   }
     .s2 {
