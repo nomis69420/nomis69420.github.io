@@ -10,6 +10,7 @@ body {
 
 a {
   display: block;
+  padding: 8px;
 }
 
 a:link {
@@ -31,8 +32,4 @@ a:hover {
 a:active {
     text-decoration: none;   
     color: #ccc;
-  }
-
-.LtAP {
-  left: 250px;
 }
