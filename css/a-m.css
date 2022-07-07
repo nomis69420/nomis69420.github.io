@@ -3,7 +3,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
   }
   .s1 {
-    color: #ccc
+    color: #ccc;
     background-color: #282C35;
     border: solid white 1px; 
     border-radius: 15px;
@@ -12,16 +12,11 @@ body {
     overflow: auto;
     width: 45%;
     padding: 15px;
+    text-align: center;
+    justify-content: center;
   }
  .s1d {
-    color: ccc;
-    background-color: #333;
-    border-radius: 15px;
-    display: flex;
-    float: right;
-    overflow: auto;
-    width: 45%;
-    padding: 15px;
+
   }
     .s2 {
     border-radius: 15px;
