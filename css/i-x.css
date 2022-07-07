@@ -8,23 +8,23 @@ body {
     top: 0;
 }
 
-a {
-    text-decoration: none
-}
-
 a:link {
+    text-decoration: none;
     color: #ccc;
   }
   
 a:visited {
+    text-decoration: none;
     color: #ccc;
   }
   
 a:hover {
+    text-decoration: none;
     transition: 2s; 
     color: #555;
   }
   
 a:active {
+    text-decoration: none;   
     color: #ccc;
   }
