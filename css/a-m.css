@@ -6,17 +6,21 @@ body {
     background-color: #333;
     border-radius: 15px;
     display: flex;
+    float: left;
     overflow: auto;
     height: 65%;
     width: 80%;
+    padding: 15px;
   }
  .s1d {
     background-color: #333;
     border-radius: 15px;
     display: flex;
-    overflow: auto:
-    height: 30%;
+    float: right;
+    overflow: auto;
     width: 60%;
+    height: 30%;
+    padding: 15px;
   }
     .s2 {
     border-radius: 15px;
