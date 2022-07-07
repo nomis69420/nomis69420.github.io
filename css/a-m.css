@@ -10,24 +10,24 @@ body {
     display: flex;
     float: left;
     overflow: auto;
-    width: 45%;
+    width: 90%;
     padding: 15px;
     text-align: center;
     justify-content: center;
   }
  .s1d {
-
+    //incase this is needed I'll leave it be.
   }
     .s2 {
-    border-radius: 15px;
-    color: #ccc;
-    border: 10px #ccc;
-    background-color: #111;
-    float: left;
-    text-align: center;
-    padding: 40px;
-    overflow-y: scroll;
-    height: 100%;
-    width: 200px;
-    display: flex;
+      color: #ccc;
+      background-color: #282C35;
+      border: solid white 1px; 
+      border-radius: 15px;
+      display: flex;
+      float: left;
+      overflow: auto;
+      width: 90%;
+      padding: 15px;
+      text-align: center;
+      justify-content: center;
   }
