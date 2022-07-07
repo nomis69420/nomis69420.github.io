@@ -18,13 +18,14 @@ a {
    color: #696969;
 }
 ul {
-   background-color: #16161d;
-   border-radius: 20px;
+   margin-right: auto;
+   margin-left: auto;
+   background-color: #282C35;
+   border-radius: 15px;
    width: 90%;
    justify-content: center;
    height: 90%;
    line-height:90%;
-   float: left;
    display: block;
 }
 il {
