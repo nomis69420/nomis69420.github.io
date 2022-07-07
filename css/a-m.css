@@ -3,6 +3,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
   }
   .s1 {
+    align-items: center;
     margin: auto;
     color: #ccc;
     background-color: #282C35;
@@ -19,6 +20,7 @@ body {
     //incase this is needed I'll leave it be.
   }
     .s2 {
+      align-items: center;
       margin: auto;
       color: #ccc;
       background-color: #282C35;
