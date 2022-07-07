@@ -19,20 +19,33 @@ body {
     text-align: center;
   }
  .s1d {
-    //incase this is needed I'll leave it be.
+   padding: 20px;
+   align-items: center;
+   margin: auto;
+   color: #ccc;
+   background-color: #282C35;
+   border: solid white 1px; 
+   border-radius: 15px;
+   display: flex;
+   float: left;
+   overflow: auto;
+   width: 90%;
+   padding: 15px;
+   left: 25px;
+   text-align: center;
   }
     .s2 {
-      align-items: center;
-      margin: auto;
-      color: #ccc;
-      background-color: #282C35;
-      border: solid white 1px; 
-      border-radius: 15px;
-      display: flex;
-      float: left;
-      overflow: auto;
-      width: 90%;
-      padding: 15px;
-      text-align: center;
-      justify-content: center;
+    align-items: center;
+    margin: auto;
+    color: #ccc;
+    background-color: #282C35;
+    border: solid white 1px; 
+    border-radius: 15px;
+    display: flex;
+    float: left;
+    overflow: auto;
+    width: 90%;
+    padding: 15px;
+    text-align: center;
+    justify-content: center;
   }
