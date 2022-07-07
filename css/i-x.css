@@ -8,6 +8,10 @@ body {
     top: 0;
 }
 
+a {
+  display: block;
+}
+
 a:link {
     text-decoration: none;
     color: #ccc;
