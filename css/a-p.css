@@ -13,13 +13,11 @@ h3 {
     top: 50;
    }
 a {
-   color: #696969;
+   color: #ccc;
 }
 ul {
+   color: #ccc;
+   text-decoration: none;
    background-color: #282C35;
-   height: 90%;
-   display: inline-block;
-}
-il {
    display: inline-block;
 }
