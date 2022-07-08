@@ -15,14 +15,7 @@ h3 {
     top: 50;
    }
 
-ul {
-   color: #ccc;
-   text-decoration: none;
-   background-color: #282C35;
-   display: inline-block;
-}
-
-il {
+.anime-list {
    color: #ccc;
    text-decoration: none;
    background-color: #282C35;
