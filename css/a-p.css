@@ -5,28 +5,24 @@ body {
  h1{
    color: #fff;
    text-align: center;
+   top: 50;
     }
 h3 {
     color: #fff;    
     text-align: center;
-   }
-img {
-    width: 200px;
-    height: 200px;
+    top: 50;
    }
 a {
    color: #696969;
 }
 ul {
-   margin-right: auto;
-   margin-left: auto;
    background-color: #282C35;
    border-radius: 15px;
    width: 90%;
    justify-content: center;
    height: 90%;
-   line-height:90%;
-   display: block;
+   line-height:50%;
+   display: flex;
 }
 il {
    display: block;
