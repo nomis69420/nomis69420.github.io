@@ -15,9 +15,14 @@ h3 {
     top: 50;
    }
 
-.anime-list {
+.al {
    color: #ccc;
-   text-decoration: none;
+   list-style-type: none;
    background-color: #282C35;
-   display: inline-block;
+   display: block;
+}
+
+.al :hover {
+   color: #333;
+   transition: 2s;
 }
