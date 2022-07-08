@@ -17,13 +17,9 @@ a {
 }
 ul {
    background-color: #282C35;
-   border-radius: 15px;
-   width: 90%;
-   justify-content: center;
    height: 90%;
-   line-height:50%;
-   display: flex;
+   display: inline-block;
 }
 il {
-   display: block;
+   display: inline-block;
 }
