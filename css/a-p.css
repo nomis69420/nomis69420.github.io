@@ -4,25 +4,25 @@ body {
     }
 
  h1{
-   color: #fff;
+   color: #ccc;
    text-align: center;
    top: 50;
     }
 
 h3 {
-    color: #fff;    
+    color: #ccc;    
     text-align: center;
     top: 50;
    }
 
-.al {
-   color: #ccc;
+ul {
+   display: inline-block;
    list-style-type: none;
-   background-color: #282C35;
-   display: block;
+   text-decoration: none;
+   color: #ccc;
 }
 
-.al :hover {
-   color: #333;
+a:hover {
+   color: #555;
    transition: 2s;
 }
