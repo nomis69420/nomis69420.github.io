@@ -33,3 +33,27 @@ a:active {
     text-decoration: none;   
     color: #ccc;
 }
+
+h1 {
+  text-align: center;
+  top: 50px;
+  color: #ccc;
+}
+
+h2 {
+  text-align: center;
+  top: 50px;
+  color: #ccc;
+}
+
+h3 {
+  text-align: center;
+  top: 50px;
+  color: #ccc;
+}
+
+h4 {
+  text-align: center;
+  color: #ccc;
+  bottom: 0;
+}
