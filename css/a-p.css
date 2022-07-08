@@ -2,20 +2,27 @@ body {
     background-color: #282C35;
     font-family: Arial, Helvetica, sans-serif;
     }
+
  h1{
    color: #fff;
    text-align: center;
    top: 50;
     }
+
 h3 {
     color: #fff;    
     text-align: center;
     top: 50;
    }
-a {
-   color: #ccc;
-}
+
 ul {
+   color: #ccc;
+   text-decoration: none;
+   background-color: #282C35;
+   display: inline-block;
+}
+
+il {
    color: #ccc;
    text-decoration: none;
    background-color: #282C35;
