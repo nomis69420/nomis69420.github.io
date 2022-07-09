@@ -16,13 +16,16 @@ h3 {
    }
 
 ul {
-   display: inline-block;
+   display: block;
    list-style-type: none;
-   text-decoration: none;
    color: #ccc;
 }
 
 a:hover {
    color: #555;
    transition: 2s;
+}
+
+a {
+   text-decoration: none;
 }
