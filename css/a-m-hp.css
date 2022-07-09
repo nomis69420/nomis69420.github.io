@@ -4,7 +4,6 @@ body {
     }
 
  h1{
-   position: absolute;
    color: #ccc;
    text-align: center;
    top: 50;
@@ -49,4 +48,14 @@ a:hover {
 a:active {
    text-decoration: none;   
    color: #ccc;
+}
+
+button {
+   background-color: #282C35;
+   border: 1px;
+   border-color: #ccc;
+}
+
+a.button:hover {
+   background-color: #555;
 }
