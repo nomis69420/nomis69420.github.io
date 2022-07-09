@@ -56,10 +56,12 @@ button {
    border-color: #ccc;
    float: left;
    position: absolute;
+   color: #ccc;
    left: 50px;
 }
 
 a.button:hover {
+   cursor: pointer;
    background-color: #555;
 }
 
