@@ -16,22 +16,36 @@ h3 {
    }
 
 ul {
-   display: block;
    list-style-type: none;
    color: #ccc;
 }
 
 il {
    display: block;
-   list-style-type: none;
-   color: #ccc;
-}
-
-a:hover {
-   color: #555;
-   transition: 2s;
 }
 
 a {
    text-decoration: none;
+   color: #ccc
+}
+
+a:link {
+   text-decoration: none;
+   color: #ccc;
+ }
+ 
+a:visited {
+   text-decoration: none;
+   color: #ccc;
+ }
+ 
+a:hover {
+   text-decoration: none;
+   transition: 2s; 
+   color: #555;
+ }
+ 
+a:active {
+   text-decoration: none;   
+   color: #ccc;
 }
