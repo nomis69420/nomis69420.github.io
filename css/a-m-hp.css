@@ -62,3 +62,7 @@ button {
 a.button:hover {
    background-color: #555;
 }
+
+i {
+   color: #ccc;
+}
