@@ -21,6 +21,12 @@ ul {
    color: #ccc;
 }
 
+il {
+   display: block;
+   list-style-type: none;
+   color: #ccc;
+}
+
 a:hover {
    color: #555;
    transition: 2s;
