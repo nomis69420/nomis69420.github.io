@@ -1,3 +1,3 @@
-let  x = 10;
+let  button = "This button was created with Javascript!";
 
-document.getElementById("demo").innerHTML = x;
+document.getElementById("demo").innerHTML = button;
