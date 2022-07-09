@@ -41,7 +41,7 @@ a:visited {
  
 a:hover {
    text-decoration: none;
-   transition: 2s; 
+   transition: 1s; 
    color: #555;
  }
  
