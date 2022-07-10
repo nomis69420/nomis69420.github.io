@@ -18,7 +18,10 @@ h3 {
 ul {
    list-style-type: none;
    color: #ccc;
-   display: inline-block;
+}
+
+il {
+   display: block;
 }
 
 a {
@@ -47,9 +50,4 @@ a:active {
    color: #ccc;
 }
 
-button {
-   float: left;
-   position: absolute;
-   color: #ccc;
-   top: 25px;
-}
+
