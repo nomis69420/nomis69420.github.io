@@ -18,9 +18,6 @@ h3 {
 ul {
    list-style-type: none;
    color: #ccc;
-}
-
-il {
    display: block;
 }
 
@@ -54,6 +51,7 @@ button {
    float: left;
    position: absolute;
    color: #ccc;
+   top: 25px;
 }
 
 a.button:hover {
