@@ -52,6 +52,7 @@ a:active {
 }
 
 .BackButton {
-   top: 50;
+   top: 60;
+   left: 70;
    position: absolute;
 }
