@@ -18,7 +18,7 @@ h3 {
 ul {
    list-style-type: none;
    color: #ccc;
-   display: block;
+   display: inline-block;
 }
 
 a {
@@ -52,19 +52,4 @@ button {
    position: absolute;
    color: #ccc;
    top: 25px;
-}
-
-a.button:hover {
-   cursor: pointer;
-   background-color: #555;
-}
-
-i {
-   color: #ccc;
-}
-
-i a:hover {
-   cursor: pointer;
-   background-color: #555;
-   transition: 1s;
 }
