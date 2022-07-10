@@ -51,13 +51,9 @@ a:active {
 }
 
 button {
-   background-color: #282C35;
-   border: 1px;
-   border-color: #ccc;
    float: left;
    position: absolute;
    color: #ccc;
-   left: 50px;
 }
 
 a.button:hover {
