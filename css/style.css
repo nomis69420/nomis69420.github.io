@@ -3,7 +3,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.topbar {
+.TBar {
     display: flex;
     top: 0;
 }
@@ -13,7 +13,7 @@ a {
   padding: 8px;
 }
 
-a:link {
+a:link { 
     text-decoration: none;
     color: #ccc;
   }
@@ -34,7 +34,7 @@ a:active {
     color: #ccc;
 }
 
-h1 {
+.HPTitle {
   text-align: center;
   top: 50px;
   color: #ccc;
@@ -46,13 +46,7 @@ h2 {
   color: #ccc;
 }
 
-h3 {
-  text-align: center;
-  top: 50px;
-  color: #ccc;
-}
-
-h4 {
+.TDList {
   text-align: center;
   color: #ccc;
   bottom: 0;
