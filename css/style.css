@@ -68,7 +68,7 @@ a:active {
 }
 
 .S1 {
-  border: 1px #ccc;
+  display: block;
   width: 60%;
   height: 80%;
   text-align: center;
@@ -76,10 +76,8 @@ a:active {
 }
 
 .S1D {
-  border: 1px;
-  border-color: #ccc;
-  display: flex;
-  justify-content: center;
+  display: block;
+  text-align: center;
   width: 20%;
   height: 80%;
   color: #ccc;
