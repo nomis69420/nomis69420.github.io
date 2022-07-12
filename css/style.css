@@ -8,9 +8,19 @@ body {
     top: 0;
 }
 
-a {
+.ALink {
   display: block;
   padding: 8px;
+}
+
+.MLink {
+  display: block;
+  padding: 8px;
+}
+
+a {
+    color: #ccc;
+    text-decoration: none;
 }
 
 a:link { 
