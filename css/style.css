@@ -68,12 +68,13 @@ a:active {
 }
 
 .S1 {
-  border: 1px;
-  border-color: #ccc;
+  border: 1px #ccc;
   display: flex;
   justify-content: center;
   width: 60%;
   height: 80%;
+  overflow-y: auto;
+  overflow-x: hidden;
   color: #ccc;
 }
 
