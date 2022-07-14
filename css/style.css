@@ -67,6 +67,10 @@ a:active {
   position: absolute;
 }
 
+.BBtn a:hover {
+  cursor: pointer;
+}
+
 .S1 {
   float: left;
   display: block;
