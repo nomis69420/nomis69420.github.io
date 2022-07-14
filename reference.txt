@@ -1,0 +1,23 @@
+--FOR NEW ANIME/MANGA PAGES
+
+<!DOCTYPE html>
+<html lang="en-US">
+  
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="utf-8">
+<meta property="og:description" content="NOMIS69420 - Great Teacher Onizuka">
+<meta property="og:title" content="NOMIS69420 - Great Teacher Onizuka">
+<meta name="author" content="nomis">
+<meta name="keywords" content="NOMIS69420.github.io, nomis69420.github.io, nomis69420">
+<meta name="description" content="NOMIS69420 - Great Teacher Onizuka">
+<title> NOMIS69420 - Great Teacher Onizuka </title>
+<link rel="icon" type="image/x-icon" href="icon.ico">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <h3 class="s1"></h3> 
+    <h3 class="s1d"></h3>
+    <h3 class="s2"></h3>
+</body>
+
+--
