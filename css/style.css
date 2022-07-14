@@ -27,6 +27,7 @@ a:hover {
     text-decoration: none;
     transition: 2s; 
     color: #555;
+    cursor: pointer;
   }
   
 a:active {
