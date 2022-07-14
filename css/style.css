@@ -34,6 +34,16 @@ a:active {
     color: #ccc;
 }
 
+.ALink {
+  display: inline-block;
+  padding: 8px;
+}
+
+.MLink {
+  display: inline-block;
+  padding: 8px;
+}
+
 .HPTitle {
   text-align: center;
   top: 50px;
