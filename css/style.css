@@ -64,6 +64,7 @@ a:active {
 }
 
 li {
+  display: block;
   list-style-type: none;
 }
 
@@ -76,6 +77,11 @@ li {
 .BBtn a:hover {
   cursor: pointer;
 }
+
+i a:hover {
+ cursor: pointer;
+}
+
 
 .S1 {
   float: left;
