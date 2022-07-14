@@ -61,7 +61,7 @@ a:active {
 .AList {
   list-style-type: none;
   color: #ccc;
-  display: block;
+  display: inline-block;
 }
 
 .BBtn {
