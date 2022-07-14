@@ -35,12 +35,14 @@ a:active {
 }
 
 .ALink {
-  display: inline-block;
   padding: 8px;
 }
 
 .MLink {
-  display: inline-block;
+  padding: 8px;
+}
+
+.MiLink {
   padding: 8px;
 }
 
@@ -59,6 +61,7 @@ a:active {
 .AList {
   list-style-type: none;
   color: #ccc;
+  display: block;
 }
 
 .BBtn {
