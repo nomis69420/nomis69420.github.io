@@ -1,23 +1,25 @@
---FOR NEW ANIME/MANGA PAGES
+-- FOR NEW ANIME/MANGA PAGES --
 
 <!DOCTYPE html>
 <html lang="en-US">
   
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta charset="utf-8">
-<meta property="og:description" content="NOMIS69420 - Great Teacher Onizuka">
-<meta property="og:title" content="NOMIS69420 - Great Teacher Onizuka">
+<meta property="og:description" content="NOMIS69420 - E">
+<meta property="og:title" content="NOMIS69420 - E">
 <meta name="author" content="nomis">
 <meta name="keywords" content="NOMIS69420.github.io, nomis69420.github.io, nomis69420">
-<meta name="description" content="NOMIS69420 - Great Teacher Onizuka">
-<title> NOMIS69420 - Great Teacher Onizuka </title>
+<meta name="description" content="NOMIS69420 - E">
+<title> NOMIS69420 - E </title>
 <link rel="icon" type="image/x-icon" href="icon.ico">
 <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-    <h3 class="s1"></h3> 
-    <h3 class="s1d"></h3>
-    <h3 class="s2"></h3>
+    <a class="BBtn" style="font-size: 18px; margin-left: 0px;" onclick='location.href="/"'><i class="fa-solid fa-chevron-left fa-1x fa-fw" style="font-size: 14px;"></i>Back</a>
+    <h3 class="S1"></h3> 
+    <h3 class="S1D"></h3>
+    <h3 class="S2"></h3>
+    <h3 class="S2D"></h3>
 </body>
 
---
+-- / --
