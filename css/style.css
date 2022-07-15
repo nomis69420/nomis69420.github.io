@@ -64,9 +64,8 @@ a:active {
   color: #ccc;
 }
 
-li {
+.ALLink {
   display: block;
-  list-style-type: none;
 }
 
 .BBtn {
