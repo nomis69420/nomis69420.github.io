@@ -109,3 +109,9 @@ i a:hover {
   height: 80%;
   color: #ccc;
 }
+
+.MInfo {
+  color: #ccc;
+  text-align: center;
+  top: 65px;
+}
