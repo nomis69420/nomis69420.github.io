@@ -86,6 +86,7 @@ i a:hover {
 .S1 {
   float: left;
   display: block;
+  top: 50px;
   width: 60%;
   height: 80%;
   text-align: center;
