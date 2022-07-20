@@ -89,20 +89,31 @@ i a:hover {
 .S1 {
   top: 60px;
   position: absolute;
+  height: 150px;
+  width: 100%;
+  overflow-y: scroll;
   float: left;
   text-align: center;
   color: #ccc;
 }
 
 .S1D {
-  position: block;
+  top: 250px;
+  position: absolute;
+  height: 150px;
+  width: 100%;
+  overflow-y: scroll;
   float: right;
   text-align: center;
   color: #ccc;
 }
 
 .S2 {
-  position: block;
+  top: 450px;
+  position: absolute;
+  height: 150px;
+  width: 100%;
+  overflow-y: scroll;
   float: left;
   text-align: center;
   color: #ccc;
