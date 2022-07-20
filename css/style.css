@@ -88,32 +88,19 @@ i a:hover {
 
 .S1 {
   float: left;
-  display: block;
-  position: absolute;
-  top: 60px;
-  width: 60%;
-  height: 80%;
   text-align: center;
   color: #ccc;
 }
 
 .S1D {
-  position: absolute;
   float: right;
-  display: block;
   text-align: center;
-  width: 20%;
-  height: 80%;
   color: #ccc;
 }
 
 .S2 {
-  position: absolute;
-  float: right;
-  display: block;
+  float: left;
   text-align: center;
-  width: 20%;
-  height: 80%;
   color: #ccc;
 }
 
