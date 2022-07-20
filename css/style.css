@@ -88,18 +88,21 @@ i a:hover {
 
 .S1 {
   top: 50px;
+  position: block;
   float: left;
   text-align: center;
   color: #ccc;
 }
 
 .S1D {
+  position: block;
   float: right;
   text-align: center;
   color: #ccc;
 }
 
 .S2 {
+  position: block;
   float: left;
   text-align: center;
   color: #ccc;
