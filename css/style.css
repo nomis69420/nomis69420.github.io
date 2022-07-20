@@ -82,6 +82,9 @@ i a:hover {
  cursor: pointer;
 }
 
+.BBtn:hover {
+  cursor: pointer;
+}
 
 .S1 {
   float: left;
