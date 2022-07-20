@@ -59,12 +59,12 @@ a:active {
   bottom: 0;
 }
 
-.AList {
+.AMLList {
   list-style-type: none;
   color: #ccc;
 }
 
-.ALLink {
+.AMLink {
   display: block;
 }
 
